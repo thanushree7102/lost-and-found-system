@@ -203,6 +203,3 @@ PORT=5001
 
 ---
 
-
-
-https://github.com/thanushree7102/lost-and-found-system
